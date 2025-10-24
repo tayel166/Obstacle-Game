@@ -22,4 +22,4 @@ Built entirely with Unity's engine (C#) as a personal project to explore game ph
 ---
 
 ## 🖼️ Screenshots
-> Check out Screenshots folder 
+Check out Screenshots folder 
