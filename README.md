@@ -1,2 +1,2 @@
 # Obstacle-Game
-Avoiding obstacles gamed developed using Unity
+Avoiding obstacles game developed using C# on Unity
